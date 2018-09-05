@@ -34,4 +34,4 @@ The main problem I had was learning how to use each program and finally relaizin
 The [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) helped me **a lot** to write this page.
 
 ```test code line```
-![Image of my editor](Screen-Shot-2018-09-05-at-4.29.28-PM)
+![Image of my editor](Screenshot-for-GITHUB-Week-2)
