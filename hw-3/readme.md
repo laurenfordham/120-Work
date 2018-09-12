@@ -1,5 +1,4 @@
-# Empty p5 sketch.
+# Lauren Fordham
+["Hello World!"](https://laurenfordham.github.io/120-work/hw-3/)
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
-
-Current p5 version -> 0.7.1
+This homework cycle I learned what on earth p5.js actually is! I created a webpage using code. I drew a circle, with code! I also tried making an oval which was pretty cool. I followed through each page trying every step out on my own. I played with the setup types and what I could make. I think any feedback is good feedback, especially if you know how to take it and apply. I had an issue opening my index.html It seemed that I couldnt open it through Atom, it would give me an error message. I eventually resolved this by refreshing the pages. I think P5 is insanely cool. I really enjoyed learning about it, especially the video the creators made! I think working with p5 will be very useful for the future. I got confused by why p5 is under javascript and not the others? 
