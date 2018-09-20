@@ -1,3 +1,3 @@
 function setup(){
-    ellipse(15, 70, 89, 30);
+    ellipse(80, 20, 30, 30);
 }
