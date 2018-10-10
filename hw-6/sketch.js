@@ -25,7 +25,7 @@ function setup(){
 
   background('rgb(0, 0, 0)');
   left_side = 300;
-  right_side = windowWidth - 300;
+  right_side = windowWidth - round(299.8);
   circle1_max = windowWidth - 700;
   circle2_max = windowWidth - 700;
   circle3_max = windowWidth - 900;
